@@ -11,3 +11,4 @@ git commit -m 'git 1.1'
 git log
 git branch 'test2'
 git checkout test2
+git merge 'test2'
