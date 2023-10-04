@@ -10,5 +10,4 @@ git config --global user.name "ArtyomDen"
 git commit -m 'git 1.1'
 git log
 git branch 'test2'
-
-htsd
+git checkout test2
