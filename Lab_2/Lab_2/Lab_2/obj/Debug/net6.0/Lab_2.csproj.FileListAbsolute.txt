@@ -1,0 +1,15 @@
+C:\Users\Артём\OneDrive\Рабочий стол\Тестирование и отладка программного обеспечения\Git\Lab_2\Lab_2\Lab_2\bin\Debug\net6.0\Lab_2.exe
+C:\Users\Артём\OneDrive\Рабочий стол\Тестирование и отладка программного обеспечения\Git\Lab_2\Lab_2\Lab_2\bin\Debug\net6.0\Lab_2.deps.json
+C:\Users\Артём\OneDrive\Рабочий стол\Тестирование и отладка программного обеспечения\Git\Lab_2\Lab_2\Lab_2\bin\Debug\net6.0\Lab_2.runtimeconfig.json
+C:\Users\Артём\OneDrive\Рабочий стол\Тестирование и отладка программного обеспечения\Git\Lab_2\Lab_2\Lab_2\bin\Debug\net6.0\Lab_2.dll
+C:\Users\Артём\OneDrive\Рабочий стол\Тестирование и отладка программного обеспечения\Git\Lab_2\Lab_2\Lab_2\bin\Debug\net6.0\ref\Lab_2.dll
+C:\Users\Артём\OneDrive\Рабочий стол\Тестирование и отладка программного обеспечения\Git\Lab_2\Lab_2\Lab_2\bin\Debug\net6.0\Lab_2.pdb
+C:\Users\Артём\OneDrive\Рабочий стол\Тестирование и отладка программного обеспечения\Git\Lab_2\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.csproj.AssemblyReference.cache
+C:\Users\Артём\OneDrive\Рабочий стол\Тестирование и отладка программного обеспечения\Git\Lab_2\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артём\OneDrive\Рабочий стол\Тестирование и отладка программного обеспечения\Git\Lab_2\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.AssemblyInfoInputs.cache
+C:\Users\Артём\OneDrive\Рабочий стол\Тестирование и отладка программного обеспечения\Git\Lab_2\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.AssemblyInfo.cs
+C:\Users\Артём\OneDrive\Рабочий стол\Тестирование и отладка программного обеспечения\Git\Lab_2\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\Артём\OneDrive\Рабочий стол\Тестирование и отладка программного обеспечения\Git\Lab_2\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.dll
+C:\Users\Артём\OneDrive\Рабочий стол\Тестирование и отладка программного обеспечения\Git\Lab_2\Lab_2\Lab_2\obj\Debug\net6.0\ref\Lab_2.dll
+C:\Users\Артём\OneDrive\Рабочий стол\Тестирование и отладка программного обеспечения\Git\Lab_2\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.pdb
+C:\Users\Артём\OneDrive\Рабочий стол\Тестирование и отладка программного обеспечения\Git\Lab_2\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.genruntimeconfig.cache
